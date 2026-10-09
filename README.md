@@ -11,6 +11,9 @@
 
 GapMap India is an evidence-first market intelligence platform that empowers entrepreneurs to identify underserved local markets using live search data. Built exclusively for the **SerpApi India Hackathon 2026**.
 
+**🌟 Live Demo**: [https://gapmapin.vercel.app](https://gapmapin.vercel.app)
+**🔌 Backend API**: [https://gapmap-vhf2.onrender.com/api/health](https://gapmap-vhf2.onrender.com/api/health)
+
 [Features](#-key-features) • [How it Works](#-how-it-works) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Deployment](#-deployment)
 
 </div>
