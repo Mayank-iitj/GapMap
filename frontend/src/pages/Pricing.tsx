@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ArrowLeft, CreditCard, ArrowRight } from "lucide-react";
+import { ArrowLeft, ArrowRight } from "lucide-react";
 
 export default function Pricing() {
   return (
